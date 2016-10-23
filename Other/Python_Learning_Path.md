@@ -1,4 +1,4 @@
-Step 1: Setting up your machine
+Step 1: Setting up your machine\n
 Download and Install Anaconda: https://www.continuum.io/downloads
 
 Step 2: Python Basics
